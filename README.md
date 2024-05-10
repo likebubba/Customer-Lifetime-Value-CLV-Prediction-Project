@@ -155,3 +155,6 @@ Key findings from our analysis reveal that the number of lifetime months and sub
 Our visualization of the distribution of Lifetime Months against Customer Lifetime Value underscores the importance of customer retention strategies in maximizing CLV and long-term profitability. Customers with longer subscription lifetimes tend to exhibit higher CLV, highlighting the critical role of nurturing customer relationships and fostering loyalty.
 
 In conclusion, our optimized XGBoost model provides businesses with a powerful tool for strategic decision-making, enabling targeted marketing efforts, resource allocation optimization, and enhanced customer retention initiatives. By harnessing the insights gained from our modeling efforts, businesses can drive sustainable growth and maximize revenue in the competitive landscape of subscription services.
+
+## Project deployment.
+The project deployment is live on: https://analyticavengers-97936a86d834.herokuapp.com/
